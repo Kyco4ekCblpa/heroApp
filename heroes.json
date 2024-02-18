@@ -17,24 +17,6 @@
       "name": "Морской герой",
       "description": "Как аквамен, но не из DC",
       "element": "water"
-    },
-    {
-      "id": "9babcdce-9fbb-447d-ad41-5fadc643000c",
-      "name": "FireMan",
-      "description": "Fire",
-      "element": "fire"
-    },
-    {
-      "id": "a185e552-5e18-437b-80ab-f57d4a938c98",
-      "name": "WindMan",
-      "description": "Air",
-      "element": "wind"
-    },
-    {
-      "id": "e8a82623-2e32-4180-8afd-9cb2a19682af",
-      "name": "EarthShaker",
-      "description": "Earth",
-      "element": "earth"
     }
   ],
   "filters": [
